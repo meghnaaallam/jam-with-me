@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+p {
+  font-size: smaller;
+}
+button {
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  margin: 1rem;
+  border: 0.5px solid black;
+}
+
+li {
+  list-style: none;
+}
